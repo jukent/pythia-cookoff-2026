@@ -24,3 +24,11 @@ Check out [Pythia Foundations](https://foundations.projectpythia.org) for a cras
 We also encourage non-code participation through the creation of narrative text, images or GIFs, and even produced videos to support Cookbook content.
 
 Pythia is committed to building a community for geoscientists to come together and share open source solutions. We hope that our platform can represent and support the many voices working together to solve a global challenge. 
+
+## Content leaders and technical facilitators needed
+
+We are seeking breakout session content leaders with creative ideas for new or expanded Pythia Cookbooks to guide a hands-on hackathon experience. Ideal projects identify a focused scientific or technical problem, have a practical workflow, and can be completed collaboratively in a short, sprint-style format. Breakout leaders will help shape the session goals, mentor participants, and drive the development of reusable, open, and community-facing cookbook content. If you have an idea that could empower the Earth science community through reproducible, open-source workflows, please share your thoughts in the registration form. 
+
+We are also seeking technical breakout facilitators that will provide per-group technical leadership through community participation. If you have experience with open source contributions, particularly through git and GitHub, we would greatly benefit from your participation. 
+
+If you are interested in serving as either a content leader or breakout facilitator, please indicate so on the registration form. You may also email CISL_Events@ucar.edu if you have questions.
