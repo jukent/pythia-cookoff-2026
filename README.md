@@ -7,6 +7,7 @@
 In-person in Boulder, CO at the [NCAR Mesa Lab](https://scied.ucar.edu/visit).
 
 [Registration open now!](https://www.eventsquid.com/event/31035 )
+Please register by May 22.
 
 ## What is it?
 
